@@ -301,7 +301,7 @@
 				}
 			}
 		],
-		"map_type": "stamen:toner",
+		"map_type": "stamen:toner-lite",
 		"call_to_action_text": "Comienza",
 		"map_as_image": false,
 		"map_subdomains": ""
