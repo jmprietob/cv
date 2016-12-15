@@ -1,0 +1,310 @@
+{
+	"storymap": {
+		"language": "es",
+		"call_to_action": true,
+		"zoomify": false,
+		"slides": [{
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"type": "overview",
+				"location": {
+					"line": true,
+					"icon": "imgs/geocachinginternational.png"
+				},
+				"text": {
+					"headline": "Jose Manuel Prieto",
+					"text": "<h2>Sobre mi</h2>\n<p>Agr\u00edcola de formaci\u00f3n, descubro los Sistemas de Informaci\u00f3n Geogr\u00e1fica en los que me especializo y a partir de ah\u00ed los GPS, la topograf\u00eda, la programaci\u00f3n, la estad\u00edstica\u2026 Soy algo as\u00ed como un agrim\u00e1tico</p>\n"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "imgs/perfil.JPG",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lon": -3.6498641967773433,
+					"zoom": 12,
+					"lat": 40.379766871029275,
+					"line": true,
+					"icon": "imgs/information.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Jos\u00e9 Manuel Prieto Bl\u00e1zquez",
+					"text": "<h2>Contacto</h2>\n<p>\n<strong>M\u00f3vil:</strong> 636 93 56 86 / <strong>Fijo:</strong> 918 27 15 55\n</p>\n<p><strong>Correo-e:</strong> jmprietob@gmail.com\n</p>\n<p>Resido en Madrid</p>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lon": -0.4470062255859375,
+					"zoom": 11,
+					"lat": 42.115287984361565,
+					"line": true,
+					"icon": "imgs/university.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Estudios",
+					"text": "<p>Septiembre 1994 - Enero 2002</p><p><b>Ingenier\u00eda T\u00e9cnica Agr\u00edcola.</b> <br></p><p>Escuela Universitaria Polit\u00e9cnica de Huesca. <br></p><p>Universidad de Zaragoza.&nbsp;</p><p><span>Proyecto final de carrera: Aplicaci\u00f3n de los Sistemas de Informaci\u00f3n Geogr\u00e1fica a la elaboraci\u00f3n del Mapa de Clases Agrol\u00f3gicas de la D.O. Somontano.</span></p><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lon": -0.8843994140625,
+					"zoom": 12,
+					"lat": 41.64007838467894,
+					"line": true,
+					"icon": "imgs/university.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Estudios",
+					"text": "<p>Noviembre 2003 - Junio 2004</p><b>Master en Nuevas Tecnolog\u00edas para la Ordenaci\u00f3n del Territorio: Sistemas de Informaci\u00f3n Geogr\u00e1fica y Teledetecci\u00f3n.</b> <span><br>Departamento de Geograf\u00eda y Ordenaci\u00f3n del Territorio.<br>Universidad de Zaragoza.</span><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lon": -4.704551696777344,
+					"zoom": 12,
+					"lat": 40.656680564044166,
+					"line": true,
+					"icon": "imgs/university.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Estudios",
+					"text": "<p>Octubre 2011- Junio 2012</p><b>Grado en Ingenier\u00eda Agropecuaria y del Medio Rural</b>.<br><span>Universidad Cat\u00f3lica de \u00c1vila.</span><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lon": -3.6757678999999825,
+					"zoom": 13,
+					"lat": 40.400727,
+					"line": true,
+					"icon": "imgs/computers.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Experiencia laboral",
+					"text": "<p>(Septiembre 2014 - Octubre 2016) ESMA SL. <b>T\u00e9cnico GIS - Analista GIS: </b></p>Sistemas de Informaci\u00f3n Geogr\u00e1fica, aplicaciones inform\u00e1ticas, Teledetecci\u00f3n, &nbsp;Medio Ambiente, Redes de Sanidad Forestal, Calidad Cartogr\u00e1fica, Inventario Forestal. <span>An\u00e1lisis y desarrollo de metodolog\u00edas para estudios territoriales.</span><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lat": 40.39898672984681,
+					"line": true,
+					"lon": -3.6218833923339844,
+					"zoom": 13,
+					"icon": "imgs/computers.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Experiencia laboral",
+					"text": "<p>(Noviembre 2013 - Marzo 2014) Academia Itaca. <b>Profesor de apoyo de Ingl\u00e9s:</b></p><p><span>Clases de repaso estudiantes desde primaria a bachillerato.</span></p><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lat": 40.40081690651834,
+					"line": true,
+					"lon": -3.676471710205078,
+					"zoom": 13,
+					"icon": "imgs/computers.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Experiencia laboral",
+					"text": "<p>(Diciembre 2008 - 0ctubre 2012) &nbsp;ESMA SL. <b>T\u00e9cnico GIS - Analista GIS</b>:</p><p>Sistemas de Informaci\u00f3n Geogr\u00e1fica, Teledetecci\u00f3n, aplicaciones inform\u00e1ticas, Medioambiente, Redes de Sanidad Forestal, Calidad Cartogr\u00e1fica, Inventario Forestal. <span>An\u00e1lisis y desarrollo de metodolog\u00edas para estudios territoriales</span></p><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lat": 41.6175899,
+					"line": true,
+					"lon": 0.6200145999999904,
+					"zoom": 13,
+					"icon": "imgs/computers.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Experiencia laboral",
+					"text": "<p>(Abril 2007 - Noviembre 2008) SEIASA DEL NORDESTE. <b>Ayudante Director de Obra:</b></p><p>Realizaci\u00f3n de tareas de control t\u00e9cnico de obra, control de tiempos de ejecuci\u00f3n, control presupuestario, expropiaciones, mediciones y certificaciones. Toma de decisiones t\u00e9cnicas en obra. Negociaci\u00f3n de las mediciones y certificaciones con la empresa ejecutora. &nbsp;<span>Negociaci\u00f3n con afectados y usuarios de las obras.</span></p><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lat": 41.60799833014563,
+					"line": true,
+					"lon": -0.8890342712402344,
+					"zoom": 12,
+					"icon": "imgs/computers.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Experiencia laboral",
+					"text": "<p>(Enero - Marzo 2007)&nbsp;MIGUEL \u00c1NGEL BARRIENDO (Zaragoza).&nbsp;<b>Jefe de Topograf\u00eda</b>:</p>Realizaci\u00f3n de la definici\u00f3n geom\u00e9trica de obra. Responsable de asignar, supervisar y coordinar el trabajo de dos equipos de topograf\u00eda al cargo. <span>Control geom\u00e9trico, definici\u00f3n de replanteos, modificados de obra.</span><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lat": 38.97916144039182,
+					"line": true,
+					"lon": -3.9289855957031246,
+					"zoom": 11,
+					"icon": "imgs/computers.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Experiencia Laboral",
+					"text": "<p>(Abril 2006 - Junio 2006)<b> Freelance</b>, para la empresa NOVOTECNI SA:</p><p><span>Labores de toma de datos de campo para el proyecto LUCAS (European Land Use/Cover Area Frame Statistical Survey) de 620 puntos distribuidos por las provincias de Ciudad Real, Toledo y C\u00e1ceres.</span></p><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lat": 42.136422547571776,
+					"line": true,
+					"lon": -0.4080390930175781,
+					"zoom": 12,
+					"icon": "imgs/computers.png",
+					"use_custom_marker": true
+				},
+				"text": {
+					"headline": "Experiencia Laboral",
+					"text": "<p>(Abril 2003 - Diciembre 2006) GOBIERNO DE ARAG\u00d3N.<b>&nbsp;Delineante - Ayudante agrario:</b></p>Labores de delineaci\u00f3n, edici\u00f3n y producci\u00f3n de cartograf\u00eda t\u00e9cnica y tem\u00e1tica. Realizaci\u00f3n de proyectos de regad\u00edo y de concentraci\u00f3n&nbsp;<span>parcelaria.</span><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lon": -3.6471176147460938,
+					"zoom": 13,
+					"lat": 40.37872073494648,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "imgs/poweroutage.png"
+				},
+				"text": {
+					"headline": "Conocimientos",
+					"text": "<p>Me desenvuelvo en entornos Windows, Linux y Mac.</p><p><b>Lenguajes de Programaci\u00f3n</b>: Java, JavaScript, php (Zend Framework) &nbsp;.NET, SQL, HTML, XML, R, Phyton.</p><p><b>Suite de desarrollos</b>: Netbeans, Eclipse.</p><p><b>Sistemas de Informaci\u00f3n Geogr\u00e1fica y Teledetecci\u00f3n</b>: ArcGis, QGIS, MapWinGIS, Gvsig, Kosmo, SAGA, AutocadMap, Idrisi.</p><p><b>Servidores de Mapas (estandar OGC)</b>: Geoserver, Mapserver, ArcGis Server.</p><p><b>Framework GIS</b>: OpenLayer, Leaflet.</p><p><b>Bases de Datos</b>: Postgree + PostGis,&nbsp;MySQL, SQL Server.</p><p><b>Redes de Riego e Hidr\u00e1ulica Fluvial</b>: Gestar, Hec-Ras.</p><p>CAD: AutoCad, Microstation.</p><p><b>Topograf\u00eda</b><span>: MDT-TCP, InRoads.</span></p><br><br>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lon": -3.6471176147460938,
+					"zoom": 5,
+					"lat": 40.37872073494648,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "imgs/poweroutage.png"
+				},
+				"text": {
+					"headline": "Formaci\u00f3n complementaria",
+					"text": "<ul>\n<li>(2015)  <strong>M\u00e1ster en Gesti\u00f3n y Desarrollo de Aplicaciones Multiplataforma</strong>. SEAS, estudios superiores abiertos.\n</li>\n<li>(2015) <strong>Infraestructura de datos espaciales y geoportales</strong>. Universidad Polit\u00e9cnica de Valencia. (80 horas)\n  </li>\n<li>(2014) <strong>Compunting for Data Analisys</strong>. MOOC. <a target=\"\" rel=\"\">www.coursera.com</a>.</li>\n  <li>(2014) <strong>Desarrollo de Aplicaciones en HTML5 y para Dispositivos M\u00f3viles Firefox OS</strong>. MOOC. <a target=\"\" rel=\"\">www.miriadax.com</a>.</li>\n  <li>(2013) <strong>Aplicaciones de R para el an\u00e1lisis de datos en ecosistemas forestales</strong>. Departamento de Geom\u00e1tica y el Grupo de Investigaci\u00f3n \u201cERSAF\u201d del Departamento de Ingenier\u00eda Forestal de la Escuela T\u00e9cnica Superior de Ingenier\u00eda Agron\u00f3mica y de Montes. Universidad de C\u00f3rdoba. (75 horas)</li>\n  <li>(2013) <strong>Curso de bases de datos espaciales: PostGIS 2</strong>. Universidad Polit\u00e9cnica de Valencia. (87,5 horas)</li>\n  <li>(2013) <strong>M\u00e9todos avanzados en estad\u00edstica aplicada</strong>. (N\u00ba de Cr\u00e9ditos ECTS: 25). UNED</li>\n  <li>(2013) <strong>Arduino aplicado a la monitorizaci\u00f3n ambiental</strong>. Departamento de Geom\u00e1tica y el Grupo de Investigaci\u00f3n \u201cERSAF\u201d del Departamento de Ingenier\u00eda Forestal de la Escuela T\u00e9cnica Superior de Ingenier\u00eda Agron\u00f3mica y de Montes. Universidad de C\u00f3rdoba. (75 horas)</li>\n  <li>(2013) <strong>Master programaci\u00f3n GIS con PYTHON</strong>. <a href=\"http://geospatialtraininges.com\" target=\"\" rel=\"\">Geospatial training services espa\u00f1ol</a>. (160 horas)</li>\n  <li>(2012) <strong>LiDAR aplicado al inventario y evaluaci\u00f3n de los recursos forestales</strong>. Departamento de Geom\u00e1tica y el Grupo de Investigaci\u00f3n \u201cERSAF\u201d del Departamento de Ingenier\u00eda Forestal de la Escuela T\u00e9cnica Superior de Ingenier\u00eda Agron\u00f3mica y de Montes. Universidad de C\u00f3rdoba. (75 horas)</li>\n  <li>(2012) <strong>Curso pr\u00e1ctico de uso de Open Data: oportunidades de negocio ligadas a los datos en abierto</strong>. UNED.</li>\n  <li>(2011) <strong>Programaci\u00f3n Orientada a Objetos</strong>. Confederaci\u00f3n Empresarial de Madrid. Plan de formaci\u00f3n intersectorial de la Comunidad de Madrid. (25 horas)</li>\n  <li>(2010) <strong>Javascript</strong>. Confederaci\u00f3n Empresarial de Madrid. Plan de formaci\u00f3n intersectorial de la Comunidad de Madrid. (40 horas)</li>\n  <li>(2010) <strong>J2EE, Desarrollo web, JSF, Spring</strong>. Confederaci\u00f3n Empresarial de Madrid. Plan de formaci\u00f3n intersectorial de la Comunidad de Madrid. (40 horas)</li>\n  <li>(2010) <strong>XML</strong>.Confederaci\u00f3n  Empresarial de Madrid. Plan de formaci\u00f3n intersectoriales de la Comunidad de Madrid. (20 horas)</li>\n  <li>(2010) <strong>Curso OnLine de SIG y Teledetecci\u00f3n aplicado a la viticultura</strong>. Centro Nacional de Formaci\u00f3n en Nuevas Tecnolog\u00edas, ANOVA consulting, ENOSAT, Ministerio de Industria, Comercio y Turismo. (250 horas)</li>\n  <li>(2009) <strong>Programaci\u00f3n, comunicaciones y gesti\u00f3n de servicios para titulados no inform\u00e1ticos: Experto universitario en programaci\u00f3n</strong> (N\u00ba de Cr\u00e9ditos ECTS: 35). UNED</li>\n  <li>(2009) <strong>Curso de Infraestructuras de datos espaciales</strong>. Instituto Geogr\u00e1fico Nacional (40 horas).</li>\n  <li>(2007) <strong>Jornadas T\u00e9cnicas sobre tuber\u00edas de distribuci\u00f3n en redes de riego</strong>. Centro Nacional de Tecnolog\u00eda de Regad\u00edos (24 horas).</li>\n  <li>(2005) <strong>Herramienta inform\u00e1tica aplicada al proceso de concentraci\u00f3n parcelaria: CP2000</strong>.Direcci\u00f3n General de Desarrollo Rural. Gobierno de Arag\u00f3n (25 horas).</li>\n  <li>(2004) <strong>Curso de Microstation</strong>. Direcci\u00f3n General de Desarrollo Rural. Gobierno de Arag\u00f3n (25 horas).</li>\n  <li>(2003) <strong>Topograf\u00eda con GPS diferencial en tiempo real (RTK)</strong>. Escuela Polit\u00e9cnica Superior de Huesca (25 horas).</li>\n  <li>(2003) <strong>Evaluaci\u00f3n de Suelos</strong>. Escuela Polit\u00e9cnica Superior de Huesca (120 horas).</li>\n  <li>(2001) <strong>Topograf\u00eda Electr\u00f3nica</strong>. Instituto Nacional de Empleo (300 horas).</li>\n  <li>(2001) <strong>Topograf\u00eda Digital con MDT-TCP</strong>. Instituto de Estudios Altoaragoneses (25 horas).</li>\n  <li>(2000) <strong>Introducci\u00f3n a la Teledetecci\u00f3n</strong>. Universidad de Verano de Teruel (40 horas).</li>\n  <li>(2000) <strong>Rehabilitaci\u00f3n de Suelos degradados</strong>. Universidad de Verano de Teruel (30 horas).</li>\n  <li>(2000) <strong>AutoCad 2000</strong>. Fondo Social Europeo (60 horas).</li>\n  <li>(2000) <strong>Clasificaci\u00f3n de Suelos</strong>. Escuela Polit\u00e9cnica de Huesca (40 horas).</li>\n  <li>(2000) <strong>Seminario de Hidr\u00e1ulica de Canales</strong>. Escuela Polit\u00e9cnica de Huesca (250 horas).</li>\n  <li>(1999) <strong>Gesti\u00f3n Medioambiental</strong>. Fondo Social Europeo (100 horas).</li>\n</ul>"
+				}
+			}, {
+				"date": "",
+				"media": {
+					"url": "",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [41.513513513513516, 48],
+					"lon": -3.6471176147460938,
+					"zoom": 7,
+					"lat": 40.37872073494648,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "imgs/sozialeeinrichtung.png"
+				},
+				"text": {
+					"headline": "Experiencia asociativa",
+					"text": "<ul>\n  <li>(1992-2002) Miembro de Asociaci\u00f3n Juvenil Juventud Fontarr\u00f3n. Co-responsable del grupo de monta\u00f1a.  Monitor de tiempo libre, redacci\u00f3n de proyectos para la solicitud de subvenciones. Planificaci\u00f3n de actividades. </li>\n  <li>(1998-2003) Miembro de Asociaci\u00f3n de Agricultura Ecol\u00f3gica ELEBORO. Campa\u00f1as de sensibilizaci\u00f3n. Organizaci\u00f3n de cursos.</li>\n</ul>"
+				}
+			}
+		],
+		"map_type": "stamen:toner",
+		"call_to_action_text": "Comienza",
+		"map_as_image": false,
+		"map_subdomains": ""
+	},
+	"font_css": "stock:fjalla-average"
+}

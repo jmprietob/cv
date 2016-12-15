@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>CV José Manuel Prieto</title>
+
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+	<link rel="stylesheet" href="css/storymap.css">
+<style>
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+</style>
+</head>
+<body>
+
+<div id="mapdiv"></div>
+	<script type="text/javascript" src="js/storymap-min.js"></script>
+
+<!-- This is where the story begins! -->
+<script>
+// storymap_data can be an URL or a Javascript object
+var storymap_data = 'js/published.json';
+
+// certain settings must be passed within a separate options object
+var storymap_options = {
+	mapType: 'stamen:toner-lite',
+	map_background_color: 	"#FFFFF"
+};
+
+var storymap = new VCO.StoryMap('mapdiv', 'json/published.json');
+window.onresize = function(event) {
+    storymap.updateDisplay(); // this isn't automatic
+}
+</script>
+</body>
+</html>
+
+
